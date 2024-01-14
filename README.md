@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Estefani Soto</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%8C%B1+Endlessly+learning+%F0%9F%8C%B1;%F0%9F%8C%B1+Young+Web+Developer+%F0%9F%8C%B1" alt="Typing SVG" /></a></h3>
-<img align="right" alt="Codificación" width="300" src="https://camo.githubusercontent.com/e0f095b942a931f7218f2e9af6a18c791f6d7724b2e524c6509626e3fd7541b5/68747470733a2f2f63646e2e73686f706966792e636f6d2f732f66696c65732f312f303537382f333639362f313939372f742f392f6173736574732f6c6f6669626f792e6769663f763d313033343631373635323137383935383335303531363830373032323739">
+<img align="right" alt="Codificación" width="400" src="https://camo.githubusercontent.com/e0f095b942a931f7218f2e9af6a18c791f6d7724b2e524c6509626e3fd7541b5/68747470733a2f2f63646e2e73686f706966792e636f6d2f732f66696c65732f312f303537382f333639362f313939372f742f392f6173736574732f6c6f6669626f792e6769663f763d313033343631373635323137383935383335303531363830373032323739">
 
 - 🌱 I’m currently learning React
 
