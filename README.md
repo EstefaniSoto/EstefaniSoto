@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Estefani Soto</h1>
 <h3 align="center">A passionate frontend developer from Dominican Republic</h3>
-![image](https://github.com/EstefaniSoto/EstefaniSoto/assets/107286035/e9277e3c-9bd5-4428-bce0-023bcbfb67f4)
+
 
 - 🌱 I’m currently learning **React**
 
