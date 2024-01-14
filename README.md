@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Estefani Soto</h1>
 <h3 align="center">A passionate frontend developer from Dominican Republic</h3>
-<img align="top right" alt="Codificación" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="top" alt="Codificación" width="400" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif">
+<img align="top" alt="Codificación" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EstefaniSoto](https://github.com/EstefaniSoto)
