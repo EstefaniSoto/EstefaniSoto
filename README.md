@@ -3,7 +3,8 @@
 <br><br><br>
 
 
-<img align="right" alt="Codificación" width="400" src="file:///C:/Users/eri02/OneDrive/Documentos/68747470733a2f2f63646e2e73686f706966792e636f6d2f732f66696c65732f312f303537382f333639362f313939372f742f392f6173736574732f6c6f6669626f792e6769663f763d3130333436313736353231373839353833353035313638303730323.webp">
+<img align="right" alt="Codificación" width="400" src="![image](https://github.com/EstefaniSoto/EstefaniSoto/assets/107286035/0012a351-13f6-4432-9ab9-dddc02cd2df2)
+">
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EstefaniSoto](https://github.com/EstefaniSoto)
