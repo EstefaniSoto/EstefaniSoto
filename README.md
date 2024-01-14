@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Estefani Soto</h1>
 <h3 align="center">A passionate frontend developer from Dominican Republic</h3>
-
+<img align="right" alt="Codificación" width="400" src="https://cdn.dribbble.com/users/116207...">
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EstefaniSoto](https://github.com/EstefaniSoto)
