@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Estefani Soto</h1>
-<h3 align="center">A passionate frontend developer from Dominican Republic</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=%F0%9F%8C%B1+Endlessly+learning%2C+forever+growing+%F0%9F%8C%B1;%F0%9F%8C%B1+Young+Web+Developer+%F0%9F%8C%B1)](https://git.io/typing-svg)
 <br><br>
 
 
