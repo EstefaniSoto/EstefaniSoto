@@ -16,6 +16,20 @@
 - 📫 How to reach me **eri022004@hotmail.com**
 
 - ⚡ Fun fact **My moves are in code, not on the dance floor! 💃👨‍💻**
+<hr>
+
+<h3>My Top Open Source Projects 🏅</h3>
+
+This is a website designed to streamline the management and operations of a gym. It includes essential features that every gym should have, making it a comprehensive solution for both gym owners and members. 🏋️‍♂️ 
+
+[![QuantumCrew-Gym](https://github-readme-stats.vercel.app/api/pin/?username=estefanisoto&repo=QuantumCrew-Gym&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/EstefaniSoto/QuantumCrew-Gym)
+
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
