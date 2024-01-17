@@ -53,7 +53,7 @@ This is a website designed to streamline the management and operations of a gym.
       <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/7e9599e9-0570-4bb6-b17f-676ed589912f" alt="bun" width="55" height="55"/>    
 </p>
 <hr>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me ☎️</h3>
 <p align="left">
 <a href="https://linkedin.com/in/estefani eridania soto de los santos" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="estefani eridania soto de los santos" height="30" width="40" /></a>
 <a href="https://instagram.com/eridaniasoto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eridaniasoto" height="30" width="40" /></a>
