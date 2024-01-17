@@ -43,6 +43,7 @@ This is a website designed to streamline the management and operations of a gym.
 <h3 align="left">Tools in the Queue 📑</h3>
 <p align="left">
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="65" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="55" height="55"/>
