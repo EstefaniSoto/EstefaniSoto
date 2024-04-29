@@ -7,7 +7,7 @@
 <hr>
 <h3>Quick Info 🔎</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React & ASP.Net**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EstefaniSoto](https://github.com/EstefaniSoto)
 
