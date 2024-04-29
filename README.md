@@ -31,6 +31,7 @@ This is a website designed to streamline the management and operations of a gym.
 <h3 align="left">Languages and Tools 🛠️</h3>
 <p align="left">
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".net" width="55" height="55"/>
       <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="VisualStudioCode" width="55" height="55"/>    
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="55" height="55"/>
@@ -38,6 +39,7 @@ This is a website designed to streamline the management and operations of a gym.
       <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="55" height="55"/>
       
 </p>
 <hr>
@@ -49,7 +51,6 @@ This is a website designed to streamline the management and operations of a gym.
       <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="55" height="55"/>
       <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/7e9599e9-0570-4bb6-b17f-676ed589912f" alt="bun" width="55" height="55"/>    
 </p>
 <hr>
