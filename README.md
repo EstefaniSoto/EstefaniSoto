@@ -20,7 +20,7 @@
 
 <h3>My Top Open Source Projects 🏅</h3>
 
-
+[![Estef-s-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=estefanisoto&repo=Estef-s-Tracker&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/EstefaniSoto/Estef-s-Tracker)
 [![QuantumCrew-Gym](https://github-readme-stats.vercel.app/api/pin/?username=estefanisoto&repo=QuantumCrew-Gym&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/EstefaniSoto/QuantumCrew-Gym)
 
 <hr>
