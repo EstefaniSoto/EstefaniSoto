@@ -1,8 +1,7 @@
 <h1 align="center">&#60/Hello World, I'm Estefani Soto👩‍💻&#62</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C0C0C0FF&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%8C%B1+Young+Web+Developer+%F0%9F%8C%B1;%F0%9F%8C%B1+Endlessly+Learning+%F0%9F%8C%B1" alt="Typing SVG" /></a></h3>
-![lofiboy-ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/05cac8f1-6bee-45fa-afc2-ab17ff868183)
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e0f095b942a931f7218f2e9af6a18c791f6d7724b2e524c6509626e3fd7541b5/68747470733a2f2f63646e2e73686f706966792e636f6d2f732f66696c65732f312f303537382f333639362f313939372f742f392f6173736574732f6c6f6669626f792e6769663f763d313033343631373635323137383935383335303531363830373032323739">
+<img align="right" alt="Coding" width="400" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279">
 
 <b>Hi There </b><img  alt="hand" width="20" src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif"><br>
 <p> I'm a 20-year-old junior web software developer, and my world revolves around the magic of coding. 🌐 I proudly graduated from ITLA with a focus on software development, where I delved into the intricacies of HTML, CSS, and JS. My passion lies in crafting seamless digital experiences and solving problems through the art of programming. Whether it's bringing designs to life or unraveling the mysteries of a new algorithm, I'm always up for the challenge. 🚀 Let's explore the endless possibilities of the web together! 💻✨</p>
