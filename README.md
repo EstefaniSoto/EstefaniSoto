@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279">
 
 <b>Hi There </b><img  alt="hand" width="20" src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif"><br>
-<p> I'm a 20-year-old junior web software developer, and my world revolves around the magic of coding. 🌐 I proudly graduated from ITLA with a focus on software development, where I delved into the intricacies of HTML, CSS, and JS. My passion lies in crafting seamless digital experiences and solving problems through the art of programming. Whether it's bringing designs to life or unraveling the mysteries of a new algorithm, I'm always up for the challenge. 🚀 Let's explore the endless possibilities of the web together! 💻✨</p>
+<p> I'm a junior web software developer, and my world revolves around the magic of coding. 🌐 I proudly graduated from ITLA with a focus on software development, where I delved into the intricacies of HTML, CSS, and JS. My passion lies in crafting seamless digital experiences and solving problems through the art of programming. Whether it's bringing designs to life or unraveling the mysteries of a new algorithm, I'm always up for the challenge. 🚀 Let's explore the endless possibilities of the web together! 💻✨</p>
 <hr>
 <h3>Quick Info 🔎</h3>
 
